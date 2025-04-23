@@ -1,3 +1,10 @@
+// Q8. Cinema
+//  A program to deal with the day-to-day administration of bookings for a Cinema for a single day. Each
+//  day there are three separate performances. An early afternoon performance at 1pm, an early evening
+//  performance at 5pm, and the main performance at 8.30pm. The program should be able to handle the
+//  booking of cinema seats for any of these three performances and supply details about the remaining
+//  seats for a particular performance.
+
 #include <iostream>
 #include <string>
 using namespace std;
