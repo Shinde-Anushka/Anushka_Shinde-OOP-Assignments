@@ -1,3 +1,19 @@
+// 9. Library
+//  A program which maintains the state of books in a small school library. Each book in the library has a
+//  class mark which is a number in the range 1- 999. Two or more identical books will have a different
+//  class mark. A person may:
+//  Check a book out of the library.
+//  Reserve a book which is out on loan.
+//  Inquire as to the current status of a book.
+//  The program should be able to handle the above day-to-day transactions. In addition, a facility should
+//  be included which will provide a summary about the current status of the books in the library. For
+//  example:
+//  Books in library 100
+//  Books on loan = 5
+//  Books reserved = 2
+//  Books on shelves = 93
+//  Hint: Create a class for a book. The responsibilities of the book class are:
+
 #include <iostream>
 #include <vector>
 #include <string>
