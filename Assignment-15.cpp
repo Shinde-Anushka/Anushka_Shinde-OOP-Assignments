@@ -1,9 +1,7 @@
-// Q15. Create a class named Shape with a function that prints "This is a shape". Create another class
-// named Polygon inheriting the Shape class with the same function that prints "Polygon is a shape".
-// Create two other classes named Rectangle and Triangle having the same function which prints
-// "Rectangle is a polygon" and "Triangle is a polygon" respectively. Again, make another class named
-// Square having the same function which prints "Square is a rectangle".
-// Now, try calling the function by the object of each of these classes
+// 16. All the banks operating in India are controlled by RBIBank. RBIBank has set a well defined guideline (e.g.
+//     minimum interest rate, minimum balance allowed, maximum withdrawal limit etc) which all banks
+//     must follow. For example, suppose RBIBank has set minimum interest rate applicable to a saving bank
+//     account to be 4% annually; however, banks are free to use 4% interest rate or to set any rates above it
 
 #include <iostream>
 #include <string>
