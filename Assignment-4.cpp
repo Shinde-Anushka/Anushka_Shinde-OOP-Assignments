@@ -1,3 +1,8 @@
+// Q4. Hybrid Inheritance
+//  Consider a class network of the following figure. The class master derives information from both
+//  account and admin classes which in turn derives information from the class person. Define all the four
+//  classes and write a program to create, update and display the information contained in master objects.
+
 #include <iostream>
 #include <string>
 using namespace std;
